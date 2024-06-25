@@ -2,8 +2,8 @@
 Chegamos agora na manipulação de Links e ancoras. Junto desses dois conceitos, podemos navegar duas ou mais páginas, em um única página.
 ***
 ## Conceitos 
-__Uma conexão de um ponto para outro, um link é uma referência a outro documento, esse mesmo conceito se aplica as ancoras.
-Um ste que podemos usar esse exemplo, é o Wikipedia. Observe:
+__Uma conexão de um ponto para outro, um link é uma referência a outro documento, esse mesmo conceito se aplica as ancoras.__
+Um site que podemos usar esse exemplo, é o Wikipedia. Observe:
 ![ExemploDeAncoras](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/06ad7f4a-0be0-42e9-9630-353355451419)
 ***
 Nota-se que os links estão destacados em azul? Ao clicar nessas palavras em azul, você é direcionado para outra página; onde neste caso, a página irá te direcionar para uma explicação de uma espécie de dinossauros.
