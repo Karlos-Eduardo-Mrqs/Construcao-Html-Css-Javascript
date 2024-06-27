@@ -21,7 +21,7 @@ Simples, o __"Texto 1"__ está coberto pela __tag p, conhecida como tag paragraf
 solto, sem nenhum __"combrimento da TAG"__.
 
 # Display   
-*Lembra do exemplo citaddo anteriormente ?* Então, além deles terem uma diferença de combrimento(de um texto estar entre a abertura e fechamento de uma tag), eles possuem uma outra divergência chamada de Display. 
+*Lembra do exemplo citado anteriormente ?* Então, além deles terem uma diferença de combrimento(de um texto estar entre a abertura e fechamento de uma tag), eles possuem uma outra divergência chamada de Display. 
 ## Exemplos e Conceito
 O Display é o espaço que o conteúdo é exibido e como o conteúdo se comporta na tela, por exemplo:
     ```
