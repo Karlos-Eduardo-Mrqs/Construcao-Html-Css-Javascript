@@ -20,7 +20,7 @@ Também, podemos citar endereços com a tag ``<address> </address> `` sendo sua 
   ***
   ![ExemplosDeAtributo](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/e7296dd7-996c-49fa-9103-8ae7e76a262e)
   ***
-  Podemos modelar atributos, para fazer que as tags/blocos se comportem da forma que desejamos. Como foi visto logo acima, mudando a cor do paragrafo para azul.
+  Podemos modelar atributos, para fazer que as tags e os blocos, se comportem da forma que desejamos. Como foi visto logo acima, mudando a cor do paragrafo para azul.
   ***
 # Listas Ordenadas e Não Ordenadas
 No Html, podemos criar dois tipos de listas, sendo elas ordenadas(com números) e não ordenadas(com pontinhos);
