@@ -10,11 +10,11 @@ Adiante temos a  tag `` <p> </p> ``, que é uma Tag padrão para textos, que ocu
 ![ExemploParagrafo](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/ed8ed165-fd33-42bc-a21f-9671264ca995)
 ***
 ### As Tags `` <b> e <strong> `` 
-Essas Tags formantam o texto escolhido, para um texto em negrito . 
+Essas Tags formatam o texto escolhido, para um texto em negrito . 
 ![ExemploNegrito](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/f31d82ce-8335-4f64-a063-4f9680c4a336)
 ***
 ### As Tags `` <i> e <em> `` 
-Essas Tags formantam o texto escolhido, para um texto em itálico . 
+Essas Tags formatam o texto escolhido, para um texto em itálico . 
 ![ExemploItálico](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/1f418e6e-a9af-4947-8f8f-305a38b4fcab)
 ***
 ### As Tags `` <ins>, <del> e <mark>``
@@ -35,5 +35,5 @@ Um comando dentro do Visual Studio Code, que gera um texto aleátorio.
 odio magnam consequuntur quisquam tempore, obcaecati eaque ex veniam inventore maiores similique assumenda eius voluptatibus nostrum quaerat?**
 ***
 # Observação das Tags apresentadas
-**Todas as tags, MENOS A TAG P**, possuem Display Inline, ou seja só ocupa o espaço que o tamanho do conteúdo tem, olhe a imagem abaixo:
+**Todas as tags, MENOS A TAG P**, possuem Display Inline, ou seja, só ocupa o espaço que o tamanho do conteúdo tem, olhe a imagem abaixo:
 ![ExemploDisplayInline](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/37625b09-02a4-41cf-aec2-dfaa2425aba0)
