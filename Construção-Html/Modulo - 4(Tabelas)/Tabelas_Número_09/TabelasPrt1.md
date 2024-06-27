@@ -6,7 +6,7 @@ Dentro do Html, podemos criar tabelas. Onde são listas que possuem duas dimens�
 ***
 Para construirmos na prática uma tabela em HTML, utilizaremos essas duas tabelas como referência.**Começando pelos alunos e depois os professores**. 
 ## Observeção
-**Depois deixaremos a tabela similar a imagem com os atributos.Por enquanto, faremos a tabela primeiro e depois a organização **
+**Depois deixaremos a tabela similar a imagem com os atributos.Por enquanto, faremos a tabela primeiro e depois a organização:**
 
 ### Construção Passo a Passo Alunos Parte 1
 Para começar a tabela, iniciaremos com as tags:
