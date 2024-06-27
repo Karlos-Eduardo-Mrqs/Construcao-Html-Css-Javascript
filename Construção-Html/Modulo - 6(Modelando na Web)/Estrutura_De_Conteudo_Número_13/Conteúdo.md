@@ -1,6 +1,6 @@
 # Conteúdo Das Páginas Web
 Na pasta anterior(Estrutura_Número_12), aprendemos a observar e interpretar os blocos dentro das páginas Web. E agora, faremos o conteúdo principal e 
-diferenciação delas, tendo elas duas partes importantes, **Cabeçalho, Conteúdo e Rodapé**:
+diferenciação delas, tendo três partes importantes, **Cabeçalho, Conteúdo e Rodapé**:
 
 ## Cabeçalho
 O cabeçalho é a parte superior do nosso site, onde se encontra a barra de navegação(conjunto de ancoras), conta, suporte ou fale conosco e etc. Observe:
@@ -19,11 +19,11 @@ O cabeçalho é a parte superior do nosso site, onde se encontra a barra de nave
 ```
 
 ## Conteúdo 
-O conteúdo é a parte central od nosso site, contendo todos os textos, imagens, ancoras, títulos e entre outros.
-O nescessário  para explicar/falar sobre um tópico que o usuário realizará a leitura. Observe:
+O conteúdo é a parte central do nosso site, contendo todos os textos, imagens, ancoras, títulos e entre outros.
+O nescessário para explicar/falar sobre um tópico que o usuário realizará a leitura. Observe:
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/673f6235-b253-4941-8a75-e3672b5a3519)
 ***
-**Nota-se, que temos inúmeros atributos e tags para fazer nosso conteúdo, ser o mais "chamativo para interação do usuário.
+**Nota-se, que temos inúmeros atributos e tags para fazer nosso conteúdo, sendo o mais "chamativo para interação do usuário.
 Podemos usar as tags ``<main></main> <section> </section> <div> </div> <aside> </aside> ``**
 
 ### Formatação em Html
