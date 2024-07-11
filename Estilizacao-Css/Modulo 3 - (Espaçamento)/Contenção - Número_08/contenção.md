@@ -36,6 +36,7 @@ Graças ao comando ``overflow``.que ele pode ser:
 Para fazer esse exemplo, usaremos quatro divisórias; cada uma com classes diferentes(box1,box2,box3,box4; respectivamente)
 Onde cada uma dessas divisórias, terá um overflow("limitação") diferente. Sendo a azul = auto, branca = hidden , vermelha = scroll e verde = visible:
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/96adc5e6-aab0-4509-9e1d-35c1de556327)
+***
 Além disso, podemos dizer que o lado esquerdo vai ter uma limitação e o lado de baixo outra, com os comandos ``overflow-x⬅️ ou ➡️ e overflow-y⬆️ ou ⬇️``.Possuindo várias variações que desejar usar, com os tipos de overflow.
 
 # Espaço em branco 
