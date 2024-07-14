@@ -36,5 +36,6 @@ Finalizando a decoração dos textos, podemos definir por padrão, que cada pala
 - uppercase: Todas as palavras ficarão com caixa alta;
 - lowercase:Todas as palavras ficarão com caixa baixa;
 - normal,none:Valor Padrão;
+***
 Para usar de exemplo, criaremos outra caixa parecida as duas anteriores, tendo diferença de padronização e outros atributos a mais, como cor, decoração e etc;terá em conjunto, todas as palavras em caixa alta. Observe:
 ![image](https://github.com/user-attachments/assets/c6db7fff-d7b0-4105-bf0a-987eddf93cf8)
