@@ -54,4 +54,5 @@ Mesmo arrastando a tela para baixo, a caixa Box2, se manteve naquela exata posi�
 ## Sticky
 Posição colada, diferentemente da posição fixa, essa posição ele pode aparecer na tela de forma grudada; aparecendo quando o objeto desaparecer, sendo vísivel novamente para a leitura. Veja isso:
 ![image](https://github.com/user-attachments/assets/478e5c12-75be-4efe-826e-c6cffd069ca9)
+***
 Sendo semelhante com a fixa, porém fica grudada com a tela ao não ser vísivel na tela; 
