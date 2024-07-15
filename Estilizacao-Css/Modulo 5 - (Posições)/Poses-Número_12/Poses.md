@@ -43,6 +43,7 @@ A caixa D, ficou por cima da caixa Box1, porque? Quando aplicamos a posição ab
 Para que a caixa D possa ser manipulada dentro da caixa C, usaremos a Posição Relativa. Sendo uma posição que respeita todo o seu entorno e aréa, fazendo que todos os objetos dentro dele, usem os 
 vetores posicionais referenciarem a caixa C; Note quando aplicarmos essa posição na caixa C e manipularmos a caixa D, com 0px no Top e Right:
 ![image](https://github.com/user-attachments/assets/28d092d1-2ba5-4821-9b39-1e145d729a6a)
+***
 **Além disso, POSIÇÔES TOP,BOTTOM,RIGHT,LEFT; funcionam da mesma maneira que a posição absoluta, tendo que levar em conta, quem você usará como referência para controlar o conteúdo internamente.**
 
 ## Fixed
