@@ -7,15 +7,12 @@ html{
     background: #999;
     padding: 20px;
     margin: 15px;
-    text-align: center;
+    text-align: normal;
     text-decoration: overline;
     letter-spacing: 5px;
     line-height: 30px;
     text-transform: capitalize;
-    /*
-    text-transform
-    capitalize, uppercase, lowercase, none
-    */
+    text-wrap: normal;
 }
 
 .box2{
@@ -23,11 +20,12 @@ html{
     padding: 20px;
     margin: 15px;
     color: red;
-    text-align: center;
+    text-align: normal;
     text-decoration: underline;
     letter-spacing: 10px;
     line-height: 30px;
     text-transform: lowercase;
+    word-wrap: normal;
 }
 
 .box3{
@@ -36,12 +34,21 @@ html{
     margin: 15px;
     color: blue;
     text-align: justify;
-    text-decoration:overline;
     letter-spacing: 10px;
     line-height: 30px;
+    text-decoration: underline;
     text-transform: uppercase;
+    word-break: keep-all;
 }
 
-a{
-    color: currentColor;
+.box4{
+    background: #999;
+    padding: 20px;
+    margin: 15px;
+    color: forestgreen;
+    text-align: justify;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-decoration: overline;
+    white-space:wrap ;
 }
