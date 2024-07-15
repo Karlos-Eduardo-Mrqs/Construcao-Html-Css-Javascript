@@ -50,6 +50,7 @@ Com esse mesmo exemplo, faremos **o mínimo e máximo de altura.** Aplicaremos a
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/3af5e071-5cb8-40d9-8bbc-3515d4c8d218)
 **Ele ainda deixou a altura como 350px.Mas veja o que acontece, quando mudamos a altura para 200px e seu máximo seja 250px e adicionamos mais elementos na classe:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5873953a-f843-475d-a9c0-45c66cb356ea)
+***
 **Ele não pega todos os elementos, por ter o máximo de 250px. Então, ele respeitará o limite solicitado. O mesmo acontece ao atribuirmos um mínimo de altura de 240px:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/dd15fb6a-d2dd-409d-a526-795c986ad350)
 **Isso se aplica com a largura mínima. Não Alterando o que naturalmente foi atribuído para o mínimo solicitado.**
