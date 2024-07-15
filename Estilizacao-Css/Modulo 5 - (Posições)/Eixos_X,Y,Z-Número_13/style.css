@@ -1,7 +1,17 @@
 html{
-    background-color: floralwhite;
+    background-color: darkgoldenrod;
     font-size: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.boxes{
+    width: 600px;
+    height: 450px;
+    position: absolute;
+    top: 150px;
+    right: 30%;
+    overflow: visible;
+    background-color: aliceblue;
 }
 
 .box-1{
@@ -9,9 +19,9 @@ html{
     height: 150px;
     background-color: coral;
     position: absolute;
-    top: 150px;
-    left: 100px;
-    z-index: 1;
+    top: 100px;
+    left: 80px;
+    z-index: 3;
 }
 
 .box-2{
@@ -19,9 +29,9 @@ html{
     height: 150px;
     background-color: cornflowerblue;
     position: absolute;
-    top: 150px;
+    top: 100px;
     left: 400px;
-    z-index: 1;
+    z-index: 2;
 }
 
 .box-3{
@@ -29,7 +39,7 @@ html{
     height: 150px;
     background-color:green;
     position: absolute;
-    top: 180px;
-    left: 250px;
-    z-index: 1;
+    top: 200px;
+    left: 240px;
+    z-index: 4;
 }
