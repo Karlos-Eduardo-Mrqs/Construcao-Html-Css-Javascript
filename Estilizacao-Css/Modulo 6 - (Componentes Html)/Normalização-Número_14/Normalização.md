@@ -16,3 +16,5 @@ dos navegadores e não na padronização dos elementos que foram resetados.
 
 # Arquivo Reset Css 
 **O arquivo para a padronização de estilo para todos os navegadores [está aqui](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/Test/Estilizacao-Css/Modulo%206%20-%20(Componentes%20Html)/Normaliza%C3%A7%C3%A3o-N%C3%BAmero_14/normilize.css);**
+
+# [Referência 1](https://www.alura.com.br/artigos/o-que-e-reset-css#:~:text=CSS%2C%20ou%20CSS%20reset%2C%20%C3%A9,estilo%20padr%C3%A3o%20entre%20diferentes%20navegadores.)
