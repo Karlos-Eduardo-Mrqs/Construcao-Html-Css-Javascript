@@ -6,7 +6,7 @@ html{
 .box{
     color: aliceblue;
 }
-/*
+
 .form-group{
     margin-bottom: 15px;
 }
@@ -21,7 +21,7 @@ label,input,textarea,select{
 
 textarea{
     height: 200px;
-    resize: vertical;
+    resize: none;
 }
 
 button{
@@ -45,4 +45,3 @@ button:hover{
     background-color: rgb(1, 255, 1);
     cursor: pointer;
 }
-*/
