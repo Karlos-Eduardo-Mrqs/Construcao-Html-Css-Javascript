@@ -1,7 +1,7 @@
-# O QUE É HTML?
+# What i's Html?
 **A Hypertext Markup Language (Linguagem de Marcação de Hipertexto)** don't are progamming language and yes, how name's say,_one markup language._ She it works through are "marks" called tags, with prorpose in struct and define a nature of content in one page.
 
-## Versões Em Html
+## Versions in Html
 The Html have very reports and, today, the use of version HTML5 i's recomended and have full suport by the browsers. Per questions in historic, listed below other versions of markup language widely uses at the past. To the diferences, in practice, they are few, but don't have reason to use a versions html4 or XHTML 1.0 / 1.1 .
 
 - HTML 4.01: This version are finalize in 1999 and are used for developers for more ten(10) years ; 
