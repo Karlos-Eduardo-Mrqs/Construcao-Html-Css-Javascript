@@ -1,37 +1,35 @@
-# O que são Tags e Blocos ? 
+# What i's Tags and Block's ? 
 
-As Tags são conhecidas como Blocos; onde todo o seu conteúdo é __"anexado"__ por elas. Por Exemplo:
-
-
-```
-<tag> Conteúdo </tag> 
-```
-
-_Como pode ver, a TAG possuí abertura e fechamento e seu conteúdo fica no meio._
-
-# Diferença de Tags e Textos comuns
-
-## Qual séria a diferença entre os textos abaixo ?
+The tags are know blocks; where all your content i's __** annex **__ .For Example:
 
 ```
-    <p> Texto1 </p> 
-    Texto 2
+<tag> Content </tag> 
 ```
-Simples, o __"Texto 1"__ está coberto pela __tag p, conhecida como tag paragrafo.__ Ja o segundo, não possui bloco e está completamente
-solto, sem nenhum __"combrimento da TAG"__.
+
+_How you view, the tag have opening and closure and finalize your lining._
+
+# Diferences The Tags and Communs Text's
+
+## What is the difference between the texts below ?
+
+```
+    <p> Text 1 </p> 
+    Text 2
+```
+Simple, the __" Text1"__ are covered for the __block p, know tag paragraph.__ Already in second, don't have tag and it i's completely loose, without any __"covering if tag".__
 
 # Display   
-*Lembra do exemplo citado anteriormente ?* Então, além deles terem uma diferença de combrimento(de um texto estar entre a abertura e fechamento de uma tag), eles possuem uma outra divergência chamada de Display. 
-## Exemplos e Conceito
-O Display é o espaço que o conteúdo é exibido e como o conteúdo se comporta na tela, por exemplo:
-    ```
-        <p> Paragráfo 1 </p> 
-        <p> Paragráfo 2 </p> 
-    ``` 
-    Na Tag "p", ele possuí por padrão o Display "Block", fazendo que o texto "Paragráfo 1" e "Paragráfo 2" ocupem uma linha inteira da página,
-    ficando um abaixo do outro.Já quando utilizamos um texto normal dessa maneira:
-    ```
-        Texto 1
-        Texto 2 
-    ```
-    Sem nenhuma TAG, os dois textos ficaram um do lado do outro, por possuirem por padrão o Display "Inline", isso também acontece com a TAG span, uma tag específica para textos. Para observar a diferença de displays basta abrir o documento, usar o atahlo "CTRL+SHIFT⬆️+I" procurar um icone↖️ e clicar no elemento desejado.
+*Remember for example cited lastely ?* Then, beside them one difference in covered(in one text be between a opening and closing the one tag), They having divergence called Display. 
+
+## Examples and Concepts
+The Display is the space in which the content is displayed and how the content behaves on the screen, for example:
+```
+    <p> Paragraph 1 </p> 
+    <p> Paragraph 2 </p> 
+``` 
+In the "p" Tag, it has the "Block" Display by default, making the text "Paragraph 1" and "Paragraph 2" occupy an entire line of the page, one below the other. When we use normal text in this way :
+```
+    Text 1
+    Text 2 
+```
+Without any TAG, the two texts were next to each other, as they have the "Inline" Display by default. This also happens with the TAG span, a specific tag for texts. To observe the difference in displays, simply open the document, use the "CTRL+SHIFT⬆️+I" button, look for an icon↖️ and click on the desired element.
