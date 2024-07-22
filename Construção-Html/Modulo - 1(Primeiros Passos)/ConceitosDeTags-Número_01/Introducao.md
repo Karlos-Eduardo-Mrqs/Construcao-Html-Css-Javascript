@@ -1,20 +1,18 @@
 # O QUE É HTML?
-**A Hypertext Markup Language (Linguagem de Marcação de Hipertexto)** não é uma linguagem de programação e sim, como o nome diz, _uma linguagem de marcação ou markup._ Ela funciona através de “marcações” chamadas tags ou etiquetas, com o propósito de estruturar e definir a natureza do conteúdo de uma página.
+**A Hypertext Markup Language (Linguagem de Marcação de Hipertexto)** don't are progamming language and yes, how name's say,_one markup language._ She it works through are "marks" called tags, with prorpose in struct and define a nature of content in one page.
 
 ## Versões Em Html
-A HTML já passou por diversas revisões e, hoje, a utilização da versão HTML5 é recomendada e possui pleno suporte pelos navegadores. Por questões de histórico, listo abaixo outras versões da linguagem amplamente utilizadas no passado. As diferenças, na prática, são poucas, mas não há motivo para se utilizar as versões 4 ou XHTML 1.0 / 1.1.
+The Html have very reports and, today, the use of version HTML5 i's recomended and have full suport by the browsers. Per questions in historic, listed below other versions of markup language widely uses at the past. To the diferences, in practice, they are few, but don't have reason to use a versions html4 or XHTML 1.0 / 1.1 .
 
-- HTML 4.01: versão finalizada em 1999 e utilizada por desenvolvedores por mais de 10 anos;
+- HTML 4.01: This version are finalize in 1999 and are used for developers for more ten(10) years ; 
 
-- XHTML 1.0 / 1.1: muito utilizada a partir dos anos 2000, esta versão da HTML feita com a linguagem XML (eXtensible Markup Language) ajudou a padronizar o desenvolvimento para a web com as suas regras mais rígidas, herdadas da XML. Pode-se também utilizar XHTML com HTML5, mas esta opção não será abordada neste curso e possui pouca aderência atualmente.
+- XHTML 1.0 / 1.1: More used a from the years 2000, that version of Html made with markup language XML(eXtensible Markup Language) helping are padronize a developing for web with your more rigid rules come by XML. Can be also using XHTML with HTML5, yet this option don't it will be addressed in this repository and it has few grip at the moment; 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/bcd23d4e-012c-46dc-8298-1769db7d8892)
 
-- HTML5: Apresenta várias e interessantes possibilidades para a web. Está fora do escopo deste curso abordar todas as novidades, mas aqui já iremos utilizar alguns dos recursos que facilitam a o desenvolvimento de páginas web.É importante notar também que, depois da versão 5, a linguagem não irá possuir mais um número de versão, tendo um desenvolvimento contínuo pelos seus grupos de trabalho: uma espécie de “padrão orgânico“ ou, em inglês, living standard.
+- HTML5: Now this version, present's more and interesting possibilities for web. It's outside of scope the repository approach all news, but there it we will go some resources what facilities to the progress a web-sites.It's are important note also what, after version 5, the markup technology, the language don't will have more numbers the version, having one developy continues by yours work groups: one species the "organic pattern" or living standard;
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/fcb7c228-7623-486e-8077-d86c74d2fa0e)
 
-# Resumo Hístorico Da História Do HTML
-O HTML foi inventado por Tim Berners-Lee, um físico do centro de pesquisas CERN, na Suíça. Ele surgiu com a ideia de um sistema de hipertexto na internet.
-Hipertexto significa um texto que possui referências (links) para outros textos que podem ser acessados imediatamente. Ele publicou a primeira versão do HTML em 1991, consistindo em 18 tags. Desde então, cada versão do HTML vem com novas tags e atributos (modificadores de tags).
-Devido a rápida ascensão e popularidade, o HTML é agora considerado um padrão oficial da web.O maior upgrade da linguagem foi o lançamento do HTML5 em 2014.
+# Summary Historic of History the Html
+The Html are invented by Tm Berners-Lee, The physicist of CERN research center in Switzerland. Him emerged whit idea the one HyperText Syste at Internet. HyperText means one text what have reference (links) for others texts they can access immediately. Him send the first version Html in 1991, consisting in eighteen(18) tags. Since then, each version Html are become new tags and attributes, in other words, tag modifiers. Because the fast acension and popularity, the Html it's consider's one oficial standard in web. The big upgrade oof language are the release of Html5 in 2014.
 
 # [Referência 1](https://guilhermemuller.com.br/ead/html-css-na-pratica/introducao-html#:~:text=O%20que%20%C3%A9%20HTML%3F,do%20conte%C3%BAdo%20de%20uma%20p%C3%A1gina.) e [Referência 2](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitosbasicos#:~:text=DOCTYPE%20html%3E-,A%20Hist%C3%B3ria%20do%20HTML,que%20podem%20ser%20acessados%20imediatamente.) ; 
