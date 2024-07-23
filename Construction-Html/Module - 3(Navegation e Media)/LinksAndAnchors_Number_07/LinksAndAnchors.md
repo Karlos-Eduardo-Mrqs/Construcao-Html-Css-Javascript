@@ -1,30 +1,26 @@
-# Links e Ancoras
-Chegamos agora na manipulação de Links e ancoras. Junto desses dois conceitos, podemos navegar duas ou mais páginas, em um única página.
-***
-## Conceitos 
-__Uma conexão de um ponto para outro, um link é uma referência a outro documento, esse mesmo conceito se aplica as ancoras.__
-Um site que podemos usar esse exemplo, é o Wikipedia. Observe:
+# Links And Anchors
+We now come to manipulating Links and anchors. Together with these two concepts, we can browse two or more pages on a single page.
+
+## Concepts 
+__A connection from one point to another, a link is a reference to another document, this same concept applies to anchors.__
+A site that we can use as an example is Wikipedia. Watch:
 ![ExemploDeAncoras](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/06ad7f4a-0be0-42e9-9630-353355451419)
 ***
-Nota-se que os links estão destacados em azul? Ao clicar nessas palavras em azul, você é direcionado para outra página; onde neste caso, a página irá te direcionar para uma explicação de uma espécie de dinossauros.
-***
-# Tag Html e Atributos
-A tag que utilizamos para usar ancoras e links é ``<a> </a>``. E lembra que no Modulo 2, falamos sobre atributos? Senão lembra, é uma característica que podemos **atribuir** para uma tag. Para mais detalhes [entre nesse arquivo aqui.](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Constru%C3%A7%C3%A3o-Html/Modulo%20-%202(Manipula%C3%A7ao%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas.md).  
-***
-## Atributos e Estrutura
-Sua estrutura é feita dessa forma:
-```
-  <a href="Pagina2.html">Próxima página</a>
-```
-Funcionando da seguinte maneira, entre a abertura e fechamento, fica *o texto sublinhado em azul*, assim como fica no Wikipedia. 
-***
-Juntamente dos seus atributos:
-1. **href:Que diz qual arquivo ele vai alternar**;
-2. **title: Onde "descreve" para onde você vai**;
-3. **target:Traduzindo para alvo, podendo esse link abrir em outra página ou na mesma página**
-***
-### Bizu dos Atributos
-**No 1.atributo**, as vezes nos erramos o caminho/url da página para acessa-las correto? Ás vezes, perdemos certo tempo com isso. Mas, não quando temos Visual Studio Code para isso,**utilizando o atalho "CTRL+Tecla De Espaço", podemos fazer o caminho/url com mais facilidade**. 
+Do you notice that the links are highlighted in blue? When you click on these blue words, you are directed to another page; where in this case, the page will direct you to an explanation of a species of dinosaurs.
+
+# The tag Anchors 
+We use to use anchors and links is ``<a> </a>``. **And remember that in Module 2, we talked about attributes? If you don't remember, it's a characteristic that we can *assign* to a tag. For more details [enter this file here.]**(https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Constru%C3%A7%C3%A3o-Html/Modulo%20-%202(Manipula%C3%A7ao%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas.md).
+
+## Attributes and Structure
+Its structure is done like this:``<a href="Page2.html">Next page</a>``.
+It works as follows, between opening and closing, *the text is underlined in blue*, just as it is on Wikipedia. Along with 
+its attributes:
+1. **href: Which says which file it will switch to**;
+2. **title: Where "describes" where you are going**;
+3. **target:Translating to target, this link can open on another page or on the same page**;
+
+# Bônus
+**In the 1st attribute**, sometimes we get the wrong path/url of the page to access them, correct? Sometimes we waste some time with this. But, not when we have Visual Studio Code for this, **using the shortcut "CTRL+Space Key", we can create the path/url more easily**.
 ![ExemploDeCTRL+Espaço](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/bc2abd64-6a4a-4326-829a-6dc5b34c3eff)
 
 ***
