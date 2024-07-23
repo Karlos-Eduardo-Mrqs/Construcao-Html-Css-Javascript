@@ -48,9 +48,9 @@ In unordered lists, we use the `` <ul> </ul> `` tag along with the ``<li> </li> 
 ***
 
 ## SubLists 
-We not only have ordered and unordered lists. We also have sublists, which is a list within another list. Note:
 ![ExemploDeSubListas](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/baa57203-51bf-4fa5-8845-c25d50b355ce)
 ***
+We not only have ordered and unordered lists. We also have sublists, which is a list within another list. Note in up.
 We can notice that in *"item 1 "* we have an ordered sublist and in *"item 4"* we have an unordered sublist. The difference is in *item 4*, when we create more than one unordered list, we can notice that its pointer changes. 
 **Happening every time we create a new one**. **As for item 1, it remains the same. Not changing your pointer**.
 ### Structure of an ordered and unordered sublist 
