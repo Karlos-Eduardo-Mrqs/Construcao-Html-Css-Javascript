@@ -30,6 +30,7 @@ Finally, we can implement more things in this table like footer.
 1. **`` <tfoot> Creates the footer of our table </tfoot> `` 
 1. **``<tr> collunm </tr> ``;**
 1. **``<td> line </td>``;**
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2d3f2699-18d5-4228-9812-b4684e113dd0)
 
 Notice that in the table he created the footer with both spaces correctly. However, it has two blank spaces, to solve it we can use **the attribute called "colspan" defining how many columns a specific cell can occupy in the table. It looks like this:**

@@ -18,8 +18,9 @@ The header is the top part of our website, where the navigation bar (set of anch
 ```
 
 ## Content 
-Content is the central part of our website, containing all texts, images, anchors, titles and others.
-What is necessary to explain/talk about a topic that the user will read. Watch:
+Content is the central part of our website, containing all texts, images, anchors, titles and others.What is necessary to explain/talk about a topic that the user 
+will read. Watch:
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/673f6235-b253-4941-8a75-e3672b5a3519)
 
 ### Formatting in Html
@@ -49,8 +50,7 @@ What is necessary to explain/talk about a topic that the user will read. Watch:
 ```
 
 ## Baseboard 
-The Footer is the bottom part of our website, located at the end it cites "the copyright holder", and can be used to indicate bibliographic sources, texts related to the statements contained in the study, 
-or to refer the reader to other parts of the same text or to other texts. Watch: 
+The Footer is the bottom part of our website, located at the end it cites "the copyright holder", and can be used to indicate bibliographic sources, texts related to the statements contained in the study, or to refer the reader to other parts of the same text or to other texts. Watch: 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/c490f5ad-5a2e-47d8-a01e-91b39236e28e)
 
 ### Formatting in Html
