@@ -1,3 +1,3 @@
-# Observação 
-Para a leitura dessas pastas e arquivos, recomenda-se que **Siga os Modulos na ordem e ao abrir os modulos, leia no Número_1 em diante**,Exemplo(ConceitoDeTags-Número_01), (EstruturaDoHtml-Número_02) e continue, para não se perderem,ok ? Por conta de cada uma dessas pastas e arquivos terem conexão
-# [Menção Honrosa ao Curso Jornada Dev, pelos seus ensinamentos.](https://jornadadodev.com.br/cursos/front-end/html5);
+# Observation 
+To read these folders and files, it is recommended that **Follow the Modules in order and when opening the modules, read from Number_1 onwards**,Example(ConceitoDeTags-Número_01), (EstruturaDoHtml-Número_02) and continue, so as not to if they get lost, ok? Because each of these folders and files have a connection
+# [Honorable Mention to the Jornada Dev Course, for its teachings.](https://jornadadodev.com.br/cursos/front-end/html5);
