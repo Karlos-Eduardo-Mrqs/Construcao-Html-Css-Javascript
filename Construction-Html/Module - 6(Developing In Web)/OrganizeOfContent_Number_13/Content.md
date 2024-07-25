@@ -1,13 +1,12 @@
-# Conteúdo Das Páginas Web
-Na pasta anterior(Estrutura_Número_12), aprendemos a observar e interpretar os blocos dentro das páginas Web. E agora, faremos o conteúdo principal e 
-diferenciação delas, tendo três partes importantes, **Cabeçalho, Conteúdo e Rodapé**:
+# Web Page Content
+In the previous folder (Estrutura_Número_12), we learned how to observe and interpret the blocks within Web pages. And now, we will make the main content and differentiate them, having three important parts, **Header, Content and Footer**.
 
-## Cabeçalho
-O cabeçalho é a parte superior do nosso site, onde se encontra a barra de navegação(conjunto de ancoras), conta, suporte ou fale conosco e etc. Observe:
+## Header
+The header is the top part of our website, where the navigation bar (set of anchors), account, support or contact us, etc. are located. Watch:
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8d58ea6e-dcb8-4f94-a7a7-1ef5560e7b17)
-**Toda essa parte, é denominada de cabeçalho. Podemos utilizar as tags ``<header> </header> e <nav> </nav>``**
 
-### Formatação em Html
+### Formatting in Html
+**This entire part is called the header. We can use the tags ``<header> </header> and <nav> </nav>``**
 ```
 <header> 
         Cabeçalho 
@@ -18,15 +17,14 @@ O cabeçalho é a parte superior do nosso site, onde se encontra a barra de nave
     </header>
 ```
 
-## Conteúdo 
-O conteúdo é a parte central do nosso site, contendo todos os textos, imagens, ancoras, títulos e entre outros.
-O nescessário para explicar/falar sobre um tópico que o usuário realizará a leitura. Observe:
+## Content 
+Content is the central part of our website, containing all texts, images, anchors, titles and others.
+What is necessary to explain/talk about a topic that the user will read. Watch:
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/673f6235-b253-4941-8a75-e3672b5a3519)
-***
-**Nota-se, que temos inúmeros atributos e tags para fazer nosso conteúdo, sendo o mais "chamativo para interação do usuário.
-Podemos usar as tags ``<main></main> <section> </section> <div> </div> <aside> </aside> ``**
 
-### Formatação em Html
+### Formatting in Html
+**Note that we have numerous attributes and tags to make our content, the most "eye-catching for user interaction. We can use the tags ``<main></main> <section> </section> <div> </div> <aside> </aside> ``**
+
 ```
 <main>
         <div>
@@ -50,13 +48,14 @@ Podemos usar as tags ``<main></main> <section> </section> <div> </div> <aside> <
     </main>
 ```
 
-## Rodapé 
-O Rodapé é a parte inferior do nosso site, localizado no final ela cita "o portador de direitos autorais", podendo ser usadas para indicar fontes bibliográficas, textos relacionados com as afirmações contidas no estudo, 
-ou para remeter o leitor a outras partes do mesmo texto ou a outros textos. Observe: 
+## Baseboard 
+The Footer is the bottom part of our website, located at the end it cites "the copyright holder", and can be used to indicate bibliographic sources, texts related to the statements contained in the study, 
+or to refer the reader to other parts of the same text or to other texts. Watch: 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/c490f5ad-5a2e-47d8-a01e-91b39236e28e)
-**Como foi retratado, esse é o nosso rodapé. Podendo ser feito com as tags `` <article> </article> <footer> </footer> ``. Podendo a tag ARTICLE, ter seu HEADER e FOOTER dentro dessa tag**
 
-### Formatação em Html
+### Formatting in Html
+**As pictured, this is our footer. This can be done with the tags `` <article> </article>``, ``<footer> </footer> ``. The ARTICLE tag can have its HEADER and FOOTER within this tag**
+
 ```
     <article>
         <header> Nossa Empresa </header>
@@ -69,8 +68,7 @@ ou para remeter o leitor a outras partes do mesmo texto ou a outros textos. Obse
     </article>
 ```
 
-# Finalização
-Encerramos aqui, **A contrução-Html**. Onde aprendemos a construir as nossas páginas de uma página em branco, para uma página com muitos textos, imagens, aúdios e etc, com
-muita oraganização e hierarquia. Agradeço por ter lido todos esses módulos, espero que eles te ajudem de alguma forma a você entender como fazer coisas em HTML.
+# Finalization
+We end here, **Construction-Html**. Where we learn to build our pages from a blank page to a page with lots of texts, images, audio, etc... With a lot of organization and hierarchy. Thank you for reading all these modules, I hope they help you in some way to understand how to do things in HTML.
 
 # [Bonus](https://www.w3schools.com/tags/default.asp)
