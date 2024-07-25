@@ -75,4 +75,4 @@ Its types can be called by the *attribute "type" (its attributes will be discuss
 - **placeholder: A tip on what the user should insert in that box:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5efd7067-5d20-44a6-b0ee-10455b3e6cbc)
 
-# [Continues in Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/Modulo%20- %205(Formul%C3%A1rios)/Manipula%C3%A7%C3%A3oDeEntradas_N%C3%BAmero_11/Inputs2.md)
+# [Continues in Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%205(Forms)/ManipulationInputs_Number_11/Inputs2.md)
