@@ -37,6 +37,7 @@ Now, we will start creating the body of our table with the tags:
 - **``<tbody> We will create the body of our table and then _within tbody** </tbody>``;**
 - **``<tr> To define the line </tr>``;**
 - **``<td> To define the cells of that line </td>``;**
+***
 ![ExemploCorpoTabela](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/64f89971-c38b-4f25-a11e-c066ad3c66fa)
 
 #### Code made until the construction of the Body
@@ -66,4 +67,4 @@ Now, we will start creating the body of our table with the tags:
 Note, to make the other data "CRTL+C" in the TBody TR, "CTRL+V" under the first Tr. Changing the data only.
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/f96549d1-4082-4ad6-9555-b878a1667a60)
 
-# [Follows part 2](Construction-Html\Modulo - 4(Tabelas)\Tabelas_Número_09\TabelaPrt2.md)
+# [Follows part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Modulo%20-%204(Tabelas)/Tabelas_N%C3%BAmero_09/TabelaPrt2.md)
