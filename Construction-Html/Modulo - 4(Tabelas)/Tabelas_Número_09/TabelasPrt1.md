@@ -37,6 +37,7 @@ Now, we will start creating the body of our table with the tags:
 - **``<tbody> We will create the body of our table and then _within tbody** </tbody>``;**
 - **``<tr> To define the line </tr>``;**
 - **``<td> To define the cells of that line </td>``;**
+***
 ![ExemploCorpoTabela](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/64f89971-c38b-4f25-a11e-c066ad3c66fa)
 
 #### Code made until the construction of the Body
