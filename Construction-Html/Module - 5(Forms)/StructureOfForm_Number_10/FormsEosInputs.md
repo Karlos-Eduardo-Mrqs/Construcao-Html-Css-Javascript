@@ -20,6 +20,7 @@ _The button types can be named by the type attribute, which can be:_
 **``<input/> As the name suggests, it is the input/interaction that the user will have with the form``;I'll talk more about inputs in part two.**
 
 # Final Code:
+
 ```
 <form action="FormularioEnviado.html" method="get">
         <label for="nome">Nome</label>
@@ -28,4 +29,4 @@ _The button types can be named by the type attribute, which can be:_
     </form>
 ```
 
-[arquivo.md](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Constru%C3%A7%C3%A3o-Html/Modulo%20-%205(Formul%C3%A1rios)/EstruturaDeFormul%C3%A1rio_N%C3%BAmero_10/Inputs.md)!**
+# [Part Two !](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Constru%C3%A7%C3%A3o-Html/Modulo%20-%205(Formul%C3%A1rios)/EstruturaDeFormul%C3%A1rio_N%C3%BAmero_10/Inputs.md)
