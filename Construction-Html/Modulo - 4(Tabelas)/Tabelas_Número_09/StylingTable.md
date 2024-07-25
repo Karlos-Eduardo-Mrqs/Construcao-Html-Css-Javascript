@@ -1,38 +1,41 @@
-## Melhorando A Tabela Alunos
-Agora que a tabela foi criada, vamos fazer o mesmo Design que está aplicado na imagem de exemplo dos alunos
+## Improving the Student Table
+Now that the table has been created, let's do the same design that is applied in the students' example image.
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8f046efe-e8cc-42b9-9032-940e9a0fccc6)
-***
-### Atributos para melhoria 
-Começando pelo **CAPTION**, nosso título da tabela, usaremos o atributo **"STYLE"**, para modificar seu estilo usando:
-- **font-family: Para modificar a sua fonte/letra para Lucida Sans;**
-- **Utilizaremos a tag ``<b>`` dentro do caption, para deixa-lo em negrito; Deixando o Titulo, assim:**
+
+### Attributes for improvement 
+Starting with **CAPTION**, our table title, we will use the **"STYLE"** attribute, to modify its style using:
+- **font-family: To change your font/letter to Lucida Sans;**
+- **We will use the ``<b>`` tag inside the caption, to make it bold; Leaving the Title like this:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/f67d1852-6130-41d8-be63-c52d7f79e61c)
-***
-Indo agora para a nossa tabela, utilizaremos alguns atributos para a tag **TABLE** :
-- **border: Aplicaremos a borda da tabela;**
-- **cellpadding: Formata o espaço que a celula vai ter;**
-- **cellspacing: Formato o espaço que as celulas terão em relação a tabela;**
-- **width: Já foi citado anteriomente no modulo 3. Para ajustar largura; No final, ficou assim:**
+
+### Attributes For Table
+Going now to our table, we will use some attributes for the **TABLE** tag:
+- **border: We will apply the table border;**
+- **cellpadding: Formats the space that the cell will have;**
+- **cellspacing: Format the space that the cells will have in relation to the table;**
+- **width: It was already mentioned in module 3. To adjust width; In the end, it looked like this:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/03ac2e50-d099-4341-9ff2-2a66a748da77)
-***
-Agora com a tabela organizada, alteraremos o **Thead**, usando novamente o atributo **"style:"**
-- **Background-Color: Muda a cor de fundo;**
-- **Color: Muda a cor da letra/fonte;**
-- **Font-size: Muda o tamanho da fonte; No final ficou assim:**
+
+### Attributes For Header
+Now with the table organized, we will change the **Thead**, using the **"style:"** attribute again
+- **Background-Color: Changes the background color;**
+- **Color: Changes the color of the letter/font;**
+- **Font-size: Changes the font size; In the end it looked like this:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/569811a2-9fcb-4cfc-9271-2a48b49426be)
-*** 
-# Bonus 
-Para finalizar, podemos implementar mais coisas nessa tabela como rodápe.
-***
-## Tags Bonus 
-1. **`` <tfoot> </tfoot> ``: Cria o rodápe da nossa tabela, depois usáremos a tag ``<tr> <td> </td> </tr>``:**
+
+# Bônus 
+Finally, we can implement more things in this table like footer.
+
+## Bonus Tags 
+1. **`` <tfoot> Creates the footer of our table </tfoot> `` 
+1. **``<tr> collunm </tr> ``;**
+1. **``<td> line </td>``;**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2d3f2699-18d5-4228-9812-b4684e113dd0)
-***
-Observe que na tabela ele criou o rodápe com os dois espaços corretamente. Porém, que tem dois espaços em branco, para resolver podemos usar **o atributo chamado 
-"colspan" definindo quantas colunas uma celula em específico pode ocupar na tabela. Ficando assim:**
+
+Notice that in the table he created the footer with both spaces correctly. However, it has two blank spaces, to solve it we can use **the attribute called "colspan" defining how many columns a specific cell can occupy in the table. It looks like this:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/93c426ca-1247-440d-8c2f-228e4dd3c7ca)
-***
-## Código Final
+
+## Final Code
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -111,10 +114,11 @@ Observe que na tabela ele criou o rodápe com os dois espaços corretamente. Por
 </html>
 ```
 ***
-# Desáfio 
-Está faltando uma tabela, a dos professores ! **O desafio é o seguinte, com os ensinamentos aqui, replique a tabela professores em HTML. Qualquer dúvida comente nas issues, ok ? Tabela dos professores, logo abaixo:**
+# Challenge 
+There's a table missing, the teachers' table! **The challenge is as follows, with the teachings here, replicate the teachers table in HTML. If you have any questions, comment in the issues, ok? Table of teachers, below:**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/82aabe57-181d-4af8-9da4-0b88f76d3b07)
-***
-# [Bonus2](https://www.homehost.com.br/blog/criar-sites/tabela-html/)
-***
-# Atenção, no bonus eu corriji um erro, eu esqueci de colocar os dados do aluno Carlos ! Perdoem-me pelo erro .
+
+# [Bônus2](https://www.homehost.com.br/blog/criar-sites/tabela-html/)
+
+# Attention
+In the bonus I corrected an error, I forgot to include the student Carlos' data! Forgive me for the error.
