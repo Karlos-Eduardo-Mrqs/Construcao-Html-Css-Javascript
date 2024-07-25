@@ -66,4 +66,4 @@ Now, we will start creating the body of our table with the tags:
 Note, to make the other data "CRTL+C" in the TBody TR, "CTRL+V" under the first Tr. Changing the data only.
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/f96549d1-4082-4ad6-9555-b878a1667a60)
 
-# [Follows part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/edit/main/Construction-Html/Modulo%20-%204(Tabelas)/Tabelas_N%C3%BAmero_09/TabelasPrt2.md)
+# [Follows part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Modulo%20-%204(Tabelas)/Tabelas_N%C3%BAmero_09/TabelaPrt2.md)
