@@ -1,4 +1,4 @@
-# [Continuing FormsAndInputs](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%205(Forms)/ManipulationInputs_Number_11/Inputs2.md) 
+# [Continuing FormsAndInputs](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/FormsAndInputs.md) 
 Returning to part 1 about inputs, that is, inputs. We now have other types such as:
 
 ## Checkbox Input Types: 
