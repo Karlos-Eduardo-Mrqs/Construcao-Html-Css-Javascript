@@ -6,7 +6,8 @@ Previously, we learned how to modify and import font types and how to assign the
 ![image](https://github.com/user-attachments/assets/aacd852a-5f86-473e-9f85-5d1f604478d9)
 
 # Colors 
-With the image above, we will make the second box red, for this we will use the command ``color:color we want (we can use curentColor and inherith for values ​​that resemble the next one);``:If you don't know how to use the colors or apply other personalized ones, [access here!](colocar link)
+With the image above, we will make the second box red, for this we will use the command ``color:color we want (we can use curentColor and inherith for values ​​that resemble the next one);``:If you don't know how to use the colors or apply other personalized ones, [access here!](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%202%20-%20(Appearance)/ColorPalette-Number_04/Pallet.md)
+
 ![image](https://github.com/user-attachments/assets/f24a2f7b-8747-4661-ad34-2e5621ad0443)
 
 # Alignment
