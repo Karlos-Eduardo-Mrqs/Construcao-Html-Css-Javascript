@@ -38,7 +38,7 @@ As you can see from the Practical Example, css styles a tag by the tag name also
 ## Id X Class
 
 ### Id
-- id: Known as the identification attribute, that is, all tags must have their own ID. To call it in the css is simple, let's assume that Text 4 has an ID called Span1 and I want to make the color of Span1 Magenta. How do we style this?:
+Known as the identification attribute, that is, all tags must have their own ID. To call it in the css is simple, let's assume that Text 4 has an ID called Span1 and I want to make the color of Span1 Magenta. How do we style this?:
 
 #### Formatting Id
 
@@ -53,8 +53,8 @@ As you can see from the Practical Example, css styles a tag by the tag name also
 ##### Result Page 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/eef2c3f9-09ec-4780-b724-72d54d8e6ce4)
 
-### Classroom 
-- class: Known as a classification attribute, that is, we can say that it is like a filter to include styles for countless HTML tags at once. Like this? For example, imagine that all paragraphs have a class called ParGrf1, and all that have this class have a black background and a white font color. Styling it this way:
+### Class
+Known as a classification attribute, that is, we can say that it is like a filter to include styles for countless HTML tags at once. Like this? For example, imagine that all paragraphs have a class called ParGrf1, and all that have this class have a black background and a white font color. Styling it this way:
 
 #### Formatting Class
 
