@@ -8,7 +8,7 @@ We have this example page, if you don't change the font style, the default will 
 
 ![0_QBGG7EdJWTMq6goC](https://github.com/user-attachments/assets/0181afd3-a366-475e-8f60-40ad967cdfb3)
 
-**Aquelas que possuem pontas, serif e as que não possuem serif são san-serif, veja a diferença:** 
+**Those that have ends, serif and those that do not have serif are san-serif, see the difference:**
 
 ![BP-Serif-SansSerif-Graphic1-862x518](https://github.com/user-attachments/assets/725a3018-c9e3-444c-82f9-079a9e05476c)
 
