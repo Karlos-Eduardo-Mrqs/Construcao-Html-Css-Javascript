@@ -20,8 +20,7 @@ Notice when we apply the 20px margin to both boxes:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/9cae2951-ef54-4916-a641-83c265a6cd17)
 
-Now both are spaced 20px apart, preventing them from joining together. **Just like the border, the margin can be declared on different sides, and can only be for the top, right, left or bottom. 
-Being represented by the terms top, right, left and bottom, respectively:(``margin-left: 20px ; margin-top: 15px; ; margin-right: 20px ; margin-bottom:20px; ``). Furthermore, we can declare all sides using only the margin like this: ``margin: 20px 15px 15px 20px;``. By assigning this margin to the blue box and inspecting it(**The 20px went to the top and bottom of the box.**):
+Now both are spaced 20px apart, preventing them from joining together. Just like the border, the margin can be declared on different sides, and can only be for the top, right, left or bottom. Being represented by the terms top, right, left and bottom, respectively:(``margin-left: 20px ; margin-top: 15px; ; margin-right: 20px ; margin-bottom:20px; ``).Furthermore, we can declare all sides using only the margin like this: ``margin: 20px 15px 15px 20px;``. By assigning this margin to the blue box and inspecting it(**The 20px went to the top and bottom of the box.**):
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/88d22cbb-90bc-4818-ab07-a787267060ed)
 
