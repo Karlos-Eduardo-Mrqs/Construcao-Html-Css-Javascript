@@ -32,11 +32,12 @@ You can indicate which side will have a border or not. Being them: top - up; bot
 Using border and then the side you want, example:``border-left: none;``.
 
 - Round:
-We can transform a simple square box into a circle, thanks to the **border-radius** command. The larger the number, the rounder it becomes, notice when we assign 200px.Furthermore, just as we can tell which direction has an edge or not, the same goes for rounding.[Go here to see](https://www.w3schools.com/cssref/css3_pr_border-radius.php).
+We can transform a simple square box into a circle, thanks to the **border-radius** command. The larger the number, the rounder it becomes, notice when we assign 200px.Furthermore, just as we can tell which direction has an edge or not, the same goes for rounding.
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/d67e71de-ef48-4952-937b-91d0cde81923)
 
 - Definition and Usage Round:
+
 The border-radius property defines the radius of the element's corners.This property can have from one to four values. Here are the rules:
 
 1. Four values - border-radius: 15px 50px 30px 5px;
