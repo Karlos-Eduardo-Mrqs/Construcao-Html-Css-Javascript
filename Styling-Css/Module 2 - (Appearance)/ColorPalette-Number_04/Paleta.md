@@ -30,7 +30,7 @@ Hexadecimal codes are a way of declaring colors. Hexadecimal codes are made up o
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/76204efe-4396-4490-85aa-4e051688abc6)
 
-### rgb(Red, Green, Blue) :
+### rgb(Red, Green, Blue) 
 By mixing the colors Red, Green and Blue, we can create a new color. Being manipulated this way rgb( 0 ... 255 , 0 ... 255 , 0 ... 255) . The first house represents the color red, the second green and the third blue. Example, when we put this code rgb(245,133,89) in Paragraph 1:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1e14327d-bdad-4a21-8a4d-27e97dbeb787)
@@ -51,4 +51,4 @@ Now, adding FF(representing the number 15)= #116699FF. The background color in p
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a430fd87-f1f5-4a4b-a1d4-6ae239e42ff8)
 
 ###### HSL
-The hsl(Hue, Saturation, luminosity) . It is used to create colors, but is not used that much. This command is "assisted" by Matiz.Hue is the way most of us perceive and name a color – using the colors of the rainbow (red, orange, green, blue, etc).[Consulte a roda de cores](https://www.xrite.com/pt-pt/blogcolor-attributes-hue-chroma#:~:text=O%20que%20%C3%A9%20matiz%3F,de%20um%20tom%20para%20outro.), to see how the colors change from one tone to another.
+The hsl(Hue, Saturation, luminosity) . It is used to create colors, but is not used that much. This command is "assisted" by Matiz.Hue is the way most of us perceive and name a color – using the colors of the rainbow (red, orange, green, blue, etc).[See the color wheel](https://www.xrite.com/pt-pt/blogcolor-attributes-hue-chroma#:~:text=O%20que%20%C3%A9%20matiz%3F,de%20um%20tom%20para%20outro.), to see how the colors change from one tone to another.
