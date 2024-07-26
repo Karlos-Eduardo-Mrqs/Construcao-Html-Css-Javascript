@@ -30,7 +30,7 @@ Hexadecimal codes are a way of declaring colors. Hexadecimal codes are made up o
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/76204efe-4396-4490-85aa-4e051688abc6)
 
-### rgb(Red, Green, Blue) :
+### rgb(Red, Green, Blue) 
 By mixing the colors Red, Green and Blue, we can create a new color. Being manipulated this way rgb( 0 ... 255 , 0 ... 255 , 0 ... 255) . The first house represents the color red, the second green and the third blue. Example, when we put this code rgb(245,133,89) in Paragraph 1:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1e14327d-bdad-4a21-8a4d-27e97dbeb787)
