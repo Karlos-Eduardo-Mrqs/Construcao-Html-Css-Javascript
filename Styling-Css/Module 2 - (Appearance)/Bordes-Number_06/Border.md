@@ -6,14 +6,14 @@ Within CSS we can use borders to "decorate" an object or even decorate it with t
 ## Attributes of an edge
 Knowing this, we can use the border with the **border** command, where it has some attributes:
 
-# border-style and your types
+border-style and your types
 We can give our border a unique style, with it being:
- - solid: Borda Sólida; 
- - dashed: Borda Espaçada;
- - dotted: Borda Pontilhada;
- - double: Borda Dupla ;
- - groove, ridge , inset, outset: Bordas com efeitos de três dimensões ;
- - inherit, initial, unset,none:Bordas invisíveis ou escondidas; 
+- solid: Solid Border;
+- dashed: Spaced Edge;
+- dotted: Dotted Border;
+- double: Double Border;
+- groove, ridge, inset, outset: Edges with three-dimensional effects;
+- inherit, initial, unset, none: Invisible or hidden edges;
 
 # border-color
 Apply the color that the border will have.
