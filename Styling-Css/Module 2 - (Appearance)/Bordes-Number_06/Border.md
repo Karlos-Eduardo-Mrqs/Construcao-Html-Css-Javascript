@@ -31,15 +31,31 @@ Knowing all this, let's make a red border, with a 10px wide solid style (``.box{
 You can indicate which side will have a border or not. Being them: top - up; bottom - down; left - left; right - right;
 Using border and then the side you want, example:``border-left: none;``.
 
-- Arredondar:
-We can transform a simple square box into a circle, thanks to the **border-radius** command. The larger the number, the rounder it becomes, notice when we assign 200px.Furthermore, just as we can tell which direction has an edge or not, the same goes for rounding.[Go here to see](https://www.w3schools.com/cssref/css3_pr_border-radius.php)
+- Round:
+We can transform a simple square box into a circle, thanks to the **border-radius** command. The larger the number, the rounder it becomes, notice when we assign 200px.Furthermore, just as we can tell which direction has an edge or not, the same goes for rounding.[Go here to see](https://www.w3schools.com/cssref/css3_pr_border-radius.php).
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/d67e71de-ef48-4952-937b-91d0cde81923)
+
+- Definition and Usage Round:
+The border-radius property defines the radius of the element's corners.This property can have from one to four values. Here are the rules:
+
+1. Four values - border-radius: 15px 50px 30px 5px;
+First value applies to top-left corner, second value applies to top-right corner, third value applies to bottom-right corner, and fourth value applies to bottom-left corner;
+
+2. Three values - border-radius: 15px 50px 30px;
+First value applies to top-left corner, second value applies to top-right and bottom-left corners, and third value applies to bottom-right corner;
+
+3. Two values - border-radius: 15px 50px;
+First value applies to top-left and bottom-right corners, and the second value applies to top-right and
+bottom-left corners;
+
+4. One value - border-radius: 15px;
+The value applies to all four corners, which are rounded equally;
 
 # Bonus
 As a bonus to end this module, we will talk about the **visibility and opacity** commands:
 
-## opacity 
+## Opacity
 Translating to opacity, it is a specific command used for an object to be transparent;
 
 ### Types of Opacity
@@ -48,13 +64,13 @@ The smaller the number, it becomes invisible, with the effect of a ghost, for ex
 - initial,inherit,unset: 
 Appears normally;
 
-## visibility: 
+## Visibility: 
 Translating to visibility, it is a specific command for user observation. Whether it can be seen or not;
 
 ### Types of Visibility
 - unset, inherit, initial, visible: 
 Appear normally to the user;
-- invisible, hidden: 
+- invisible, hidden:
 Disappear from the user's screen;
 - display: none or hidden:
-disappear from the user's screen as well.
+disappear from the user's screen as well;
