@@ -3,15 +3,7 @@ We use Css for styling and design within our pages. But, how do we assign it to 
 
 ## Forms of Attribution
 1. **Tag style:** 
-We can use the style tag, inside the header (head) or in the body (body):
-
-```
- <style>
-        p{
-            color: red;
-        }
-</style> 
-```
+We can use the style tag, inside the header (head) or in the body (body): ``<style> p {color: red;} </style> ``
 
 2. **Inline:**
 Translating it would be something like "Na Linha", where you can insert your own css within the html tag. Using the style attribute. That way:``<p style="color: brown;"> Paragrafo 1 </p>``
