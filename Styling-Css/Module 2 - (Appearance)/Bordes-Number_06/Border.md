@@ -41,16 +41,20 @@ We can transform a simple square box into a circle, thanks to the **border-radiu
 The border-radius property defines the radius of the element's corners.This property can have from one to four values. Here are the rules:
 
 1. Four values - border-radius: 15px 50px 30px 5px;
+
 First value applies to top-left corner, second value applies to top-right corner, third value applies to bottom-right corner, and fourth value applies to bottom-left corner;
 
 2. Three values - border-radius: 15px 50px 30px;
+
 First value applies to top-left corner, second value applies to top-right and bottom-left corners, and third value applies to bottom-right corner;
 
 3. Two values - border-radius: 15px 50px;
+
 First value applies to top-left and bottom-right corners, and the second value applies to top-right and
 bottom-left corners;
 
 4. One value - border-radius: 15px;
+
 The value applies to all four corners, which are rounded equally;
 
 # Bonus
