@@ -33,7 +33,7 @@ Absolute Position, is an alterable position, and you can change it with the comm
 The lower the TOP number on Absolute, the higher it goes; The higher the TOP number on the Absolute, the further it drops;
 
 **- BOTTOM:**
-The lower the BOTTOM number on the Absolute, the further it drops; The higher the BOTTOM number on Absolute, the more it goes up;**
+The lower the BOTTOM number on the Absolute, the further it drops; The higher the BOTTOM number on Absolute, the more it goes up;
 
 **- RIGHT:**
 The lower the RIGHT number on the Absolute, the more it goes to the right; The higher the RIGHT number on the Absolute, the more it goes to the left;
