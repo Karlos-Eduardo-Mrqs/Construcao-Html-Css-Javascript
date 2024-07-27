@@ -8,7 +8,7 @@ This means that names with uppercase letters are different from names with lower
 
 ### 2. Valid characters
 
-- Words
+- Words:
 Although most browsers already recognize a variety of UTF-8 characters (such as words with accents and "ಠ_ಠ", for example), it is recommended to use only UPPERCASE and lowercase letters, without accents and spaces.
 
 - Numbers:
