@@ -44,6 +44,7 @@ Now to finish, let's add rounding to the button:
 
 ### Cursor class .link
 Within Css, we can modify the type of cursor that the mouse has, for example the default cursor is ↖️, however, there are many types so the image below shows all the main cursors most used:
+
 ![CSS-Custom-Cursors1](https://github.com/user-attachments/assets/de4409c6-95e1-4890-8299-f8b28ca69e0f)
 
 ## CSS PseudoCode class .link
