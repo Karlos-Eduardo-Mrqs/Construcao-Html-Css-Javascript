@@ -3,10 +3,10 @@ Variable is the name used to define one or more values ​​that are manipulate
 
 ## Rules for Creating Variables
 
-1. A variable is case-sensitive
+### 1. A variable is case-sensitive
 This means that names with uppercase letters are different from names with lowercase letters: for a JavaScript program, Name is different from name.
 
-2. Valid characters
+### 2. Valid characters
 
 - Words
 Although most browsers already recognize a variety of UTF-8 characters (such as words with accents and "ಠ_ಠ", for example), it is recommended to use only UPPERCASE and lowercase letters, without accents and spaces.
@@ -19,7 +19,7 @@ As long as they are preceded by one or more letters.
 
 ### Variable Types 
 
-1. Variable
+#### 1. Variable
 The types of variables that change their value during programming;
 
 - Variable Syntax
@@ -30,7 +30,7 @@ var age = 15;
 let age = 19;
 ```
 
-2. Constant 
+#### 2. Constant 
 The types of variables that do not change their value during programming;
 
 - Constant Syntax
@@ -43,7 +43,7 @@ const Cpf= "155.688.997-77"
 
 ![image](https://github.com/user-attachments/assets/0330c954-3f8a-4930-89dd-e45ea0643a05)
 
-3. Array
+#### 3. Array
 More robustly, an array is a data structure that serves to store elements in a memory space. 
 These memory spaces are called variables. In the JavaScript course you learn everything about arrays, variables, types and much more.
 
@@ -61,7 +61,7 @@ let frutas = ["Limão","Banana","Maçã","Uva","Laranja","Tomate","Manga","Marac
 
 ![image](https://github.com/user-attachments/assets/a46b164f-ac71-4ac1-b6af-d0afaea7328c)
 
-4. Object
+#### 4. Object
 Type of data/variable that functions as an independent entity, in which there is a set of attributes nested within a variable.
 
 - Object Syntax
@@ -76,22 +76,22 @@ var, let or const variable name = {attribute1:value,attribute2:value,attribute3:
 # Data Types
 Ok, now that you are more familiar with the use of the Javascript language, it is important to know what data types in variables are. Let's check out a list of them below:
 
-- String:
+## - String:
 It can be any value that is enclosed in single quotes or double quotes and that normally represents text in general. These are letters, numbers and punctuation marks (using double or single quotation marks);
 
 ![image](https://github.com/user-attachments/assets/69ac0267-253a-4d58-8fc6-e70f138fed7e)
 
-- Numeric:
+## - Numeric:
 Numbers are used to represent numeric values ​​and can be integer or floating point;
 
 ![image](https://github.com/user-attachments/assets/e85076c6-5833-4238-96fb-f473f0479ef9)
 
-- Boolean:
+## - Boolean:
 Data that presents only two possible values ​​– true (true) or false (false);
 
 ![image](https://github.com/user-attachments/assets/445d56fa-39ea-496d-9836-ae41aae3d360)
 
-- Null and undefined:
+## - Null and undefined:
 These are data that represent variables that either have no value (null) or are incomplete (undefined);
 
 ![image](https://github.com/user-attachments/assets/bc473449-216f-4104-b45d-1efb9b608335)
