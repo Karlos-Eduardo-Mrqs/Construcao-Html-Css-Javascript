@@ -21,7 +21,7 @@ With our web page ready, let's see in practice how to manipulate the position of
 
 1. Static: Static position, is a default position, where if you do not define it, the position will be this;
 
-2. Absolute: Absolute Position, is an alterable position, and you can change it with the commands `` top: Up, left: Left, Right: Left and Bottom: Down ``. To leave this box up and to the side, we will use this type of position, using the top commands to raise the object up and right to move it to the right. Let's see the result:
+2. Absolute: Absolute Position, is an alterable position, and you can change it with the commands `` top: Up, left: Left, Right: Right and Bottom: Down ``. To leave this box up and to the side, we will use this type of position, using the top commands to raise the object up and right to move it to the right. Let's see the result:
 
 ![image](https://github.com/user-attachments/assets/a9ddbf77-5a07-45da-a018-a183a78adcce)
 
