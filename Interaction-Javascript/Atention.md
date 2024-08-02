@@ -1,0 +1,4 @@
+# Observation 
+To read these folders and files, it is recommended that **Follow the Modules in order and when opening the modules, read Number_1 onwards**, Example(Concepts-Number_01), (Variables-Number_02) and continue, so as not to if they get lost, ok? Because each of these folders and files have connection.
+
+# [Honorable Mention to the Jornada Dev Course.](https://jornadadodev.com.br/cursos/front-end/javascript);
