@@ -68,7 +68,7 @@ The smaller the number, it becomes invisible, with the effect of a ghost, for ex
 - initial,inherit,unset: 
 Appears normally;
 
-## Visibility: 
+## Visibility
 Translating to visibility, it is a specific command for user observation. Whether it can be seen or not;
 
 ### Types of Visibility
