@@ -47,7 +47,7 @@ const Cpf= "155.688.997-77"
 More robustly, an array is a data structure that serves to store elements in a memory space. 
 These memory spaces are called variables. In the JavaScript course you learn everything about arrays, variables, types and much more.
 
-- Sintaxe Array
+- Array Sintax
 ``` 
 let, var ou const nome do array = [0,1,2,3,4,5,6,7,8,9]
 let frutas = ["Limão","Banana","Maçã","Uva","Laranja","Tomate","Manga","Maracuja","Morango","Melancia"];
