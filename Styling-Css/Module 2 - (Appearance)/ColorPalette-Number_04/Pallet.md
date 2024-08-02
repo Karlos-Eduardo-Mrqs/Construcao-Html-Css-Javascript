@@ -51,4 +51,4 @@ Now, adding FF(representing the number 15)= #116699FF. The background color in p
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a430fd87-f1f5-4a4b-a1d4-6ae239e42ff8)
 
 ###### HSL
-The hsl(Hue, Saturation, luminosity) . It is used to create colors, but is not used that much. This command is "assisted" by Matiz.Hue is the way most of us perceive and name a color – using the colors of the rainbow (red, orange, green, blue, etc).[See the color wheel](https://www.xrite.com/pt-pt/blogcolor-attributes-hue-chroma#:~:text=O%20que%20%C3%A9%20matiz%3F,de%20um%20tom%20para%20outro.), to see how the colors change from one tone to another.
+The hsl(Hue, Saturation, luminosity) . It is used to create colors, but is not used that much. This command is "assisted" by Matiz.Hue is the way most of us perceive and name a color – using the colors of the rainbow (red, orange, green, blue, etc).[See the color wheel](https://www.canva.com/colors/color-wheel/), to see how the colors change from one tone to another.
