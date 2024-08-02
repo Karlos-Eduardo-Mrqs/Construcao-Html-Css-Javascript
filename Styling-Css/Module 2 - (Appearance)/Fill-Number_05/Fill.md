@@ -31,7 +31,7 @@ Whether it is invisible or transparent as you prefer, box-2 will not be clear. W
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5562c82f-35f8-44b5-8cfe-30242526c903)
 
-## Preenchimento Com Imagens
+## Fill With Images
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2f90ef4e-1892-4c54-9acc-10fdfb03cb7a)
 
