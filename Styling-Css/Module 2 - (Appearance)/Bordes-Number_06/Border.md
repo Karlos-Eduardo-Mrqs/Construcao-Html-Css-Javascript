@@ -36,7 +36,7 @@ We can transform a simple square box into a circle, thanks to the **border-radiu
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/d67e71de-ef48-4952-937b-91d0cde81923)
 
-- Definition and Usage Round:
+## Definition and Usage Round:
 
 The border-radius property defines the radius of the element's corners.This property can have from one to four values. Here are the rules:
 
@@ -50,8 +50,7 @@ First value applies to top-left corner, second value applies to top-right and bo
 
 3. Two values - border-radius: 15px 50px;
 
-First value applies to top-left and bottom-right corners, and the second value applies to top-right and
-bottom-left corners;
+First value applies to top-left and bottom-right corners, and the second value applies to top-right and bottom-left corners;
 
 4. One value - border-radius: 15px;
 
