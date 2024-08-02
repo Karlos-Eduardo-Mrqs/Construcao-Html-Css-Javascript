@@ -5,7 +5,7 @@ Spacing is the act of opening or having an opening between two elements. Where w
 ## Extern Spacing
 As we can see from the image, we have two elements responsible for the external spacing, that is, on the outside; being them:
 
-### [Border(I said this on link)](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Estilizacao-Css/Modulo%202%20-%20(Aparencia)/Bordas-N%C3%BAmero_06/Borda.md)
+### [Border (I said this on link) ](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%202%20-%20(Appearance)/Bordes-Number_06/Border.md)
 
 ### Margin
 Translate for margem. It is responsible for the spacing around the element on the outside, let's see the
@@ -64,4 +64,4 @@ Notice when we apply the padding to 50px. See how the text was further away from
 
 And in conclusion, putting only one size value for the margin, all sides are equal, that is, if you add the margin with 20px only:``margin: 20px;``, they will be identical.
 
-### [width and heigth are cited in that past](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Estilizacao-Css/Modulo%202%20-%20(Aparencia)/Layouts-N%C3%BAmero_03/Layout.md)
+### [width and heigth are cited in that past](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%202%20-%20(Appearance)/Layouts-Number_03/Layout.md)
