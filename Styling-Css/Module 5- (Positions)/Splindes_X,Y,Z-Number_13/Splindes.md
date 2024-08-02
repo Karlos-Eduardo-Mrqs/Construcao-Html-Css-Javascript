@@ -1,5 +1,5 @@
 # Viewing Position
-We have reached the final part of CSS positioning, View Position. Where this part is a direct continuation of Positions-Number_12.
+We have reached the final part of CSS positioning, View Position. Where this part is a direct continuation of [Positions-Number_12](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%205-%20(Positions)/Position-Number_12/Positions.md).
 
 # Cartesian Plane
 Summarizing what was said in the previous practice, In the Cartesian plane we have two axes X and Y. Within the Styling, that is, in the css they are represented as X being width and Y being height. However, we have a third, which is the z axis, demonstrating the user's view in relation to the monitor and the size of the screen. As in this image, we can say that Z is the user's outside view, Y is the height and X is the width:
