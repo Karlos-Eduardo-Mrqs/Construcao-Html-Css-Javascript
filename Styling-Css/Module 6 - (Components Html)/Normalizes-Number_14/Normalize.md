@@ -9,6 +9,6 @@ We already know that it is a style sheet and that we can use it as we normally d
 
 This is because, if the CSS reset is added in the middle of the project, for example, it can cause headaches since the layout was created using browser formatting as a reference and not the standardization of the elements that were reset.
 
-# [Reset CSS file](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%206%20-%20(Components%20Html)/Normalizes-Number_14/normilize.css);
+# [Reset CSS file](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%206%20-%20(Components%20Html)/Normalizes-Number_14/normilize.css)
 
 # [Reference 1](https://www.alura.com.br/artigos/o-que-e-reset-css#:~:text)
