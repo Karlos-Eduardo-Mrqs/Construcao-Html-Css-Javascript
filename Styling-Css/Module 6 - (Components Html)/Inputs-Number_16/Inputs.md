@@ -1,55 +1,53 @@
-# Styling Inputs
-In this chapter, we will cover the styling of inputs, called inputs with css
+# Entradas de estilo
+Neste capítulo, abordaremos o estilo das entradas, chamadas entradas com css
 
-# Example Page
+# Página de exemplo
+![imagem](https://github.com/user-attachments/assets/fdf6458e-53e4-4133-bb3d-7caf03324232)
 
-![image](https://github.com/user-attachments/assets/fdf6458e-53e4-4133-bb3d-7caf03324232)
+Usaremos esta página aqui para melhorá-la e torná-la mais bonita. Começaremos então a modificar o comportamento do elemento da tela que está sendo bloqueado, sua largura para 100% e a cor da fonte para preto:
 
-We will use this page here to improve it and make it more beautiful. We will then start to modify the behavior of the screen element being blocked, its width to 100% and the font color to black:
+![imagem](https://github.com/user-attachments/assets/a554bc79-1a1f-4a6d-9212-b7eeec9da236)
 
-![image](https://github.com/user-attachments/assets/a554bc79-1a1f-4a6d-9212-b7eeec9da236)
+Observando os três elementos, vemos que as opções estão desalinhadas com os campos de mensagens e nomes, usaremos um padding de 10px e o tamanho da caixa para a borda da caixa:
 
-Looking at the three elements, we see that the options are misaligned with the messages and name fields, we will use a padding of 10px and the box size for the border box:
+![imagem](https://github.com/user-attachments/assets/a6cb2348-6fcf-4687-8a54-f444a747c7dd)
 
-![image](https://github.com/user-attachments/assets/a6cb2348-6fcf-4687-8a54-f444a747c7dd)
+A seguir, vamos aumentar a altura da área de texto para 200px:
 
-Next, let's increase the height of the text area to 200px:
+![imagem](https://github.com/user-attachments/assets/4bbd78a9-232f-44c0-aa76-aa2a56d333e3)
 
-![image](https://github.com/user-attachments/assets/4bbd78a9-232f-44c0-aa76-aa2a56d333e3)
+# Rezize o atributo
+Dentro do css, temos um atributo chamado `` resize: resize type; `` onde podemos manipular como a área de texto se move. Por exemplo, neste campo podemos movê-lo horizontalmente e verticalmente, ou seja, para cima e para baixo, para a esquerda e para a direita. Danificando as dimensões dos demais campos, isso não ocorre quando utilizamos o redimensionamento.
 
-# Rezize attribute
-Inside css, we have an attribute called `` resize: resize type; `` where we can manipulate how the text area moves. For example, in this field we can move it horizontally and vertically, that is, up and down, left and right. Damaging the dimensions of other fields, this does not occur when we use resize.
+## Tipos de redimensionamento
+- ambos:
+Padrão, move a caixa de texto para todos os lados;
+- horizontais:
+Move-se horizontalmente, ou seja, para a esquerda e para a direita;
+- verticais:
+Move-se verticalmente, ou seja, para cima e para baixo;
+- nenhum:
+Bloqueia o movimento da caixa de texto;
 
-## Types of Resizing
-- both:
-Default, moves the text box to all sides;
-- horizontal:
-Moves horizontally, that is, left and right;
-- vertical:
-Moves vertically, that is, up and down;
-- none:
-Blocks movement of the text box;
+# Botão 
+Agora focando no estilo do botão, vamos remover sua borda e aplicar um fundo verde, por se tratar de um botão de envio:
 
-# Button 
-Now focusing on the styling of the button, we will remove its border and apply a green background, as it is a submit button:
+![imagem](https://github.com/user-attachments/assets/c0f24730-a4b3-4d80-ac68-f75222a9e9b4)
 
-![image](https://github.com/user-attachments/assets/c0f24730-a4b3-4d80-ac68-f75222a9e9b4)
+Como sua fonte é pequena, vamos aumentá-la para 16px, dar um padding de 10px (superior e inferior) 60px (lado esquerdo e direito) finalizando com um arredondamento de 30px:
 
-As your font is small, we will increase it to 16px, give it a padding of 10px (top and bottom) 60px (left and right side) finishing with a rounding of 30px:
+![imagem](https://github.com/user-attachments/assets/b313a339-aad9-436a-8b40-68f02b7b9a13)
 
-![image](https://github.com/user-attachments/assets/b313a339-aad9-436a-8b40-68f02b7b9a13)
+Para fechar o botão, vamos centralizá-lo com text-align:center :
 
-To close the button, let's center this button with text-align:center :
+![imagem](https://github.com/user-attachments/assets/fc8b3cf3-2f0b-4c79-a59f-03af35e5ce40)
 
-![image](https://github.com/user-attachments/assets/fc8b3cf3-2f0b-4c79-a59f-03af35e5ce40)
+## Bônus
+Além disso, podemos aplicar estilo ao placeholder (as mensagens sombreadas no campo de entrada nome e área de texto), utilizando um pseudocódigo chamado input:placeholder, fazendo com que apenas o placeholder de entrada seja estilizado. Concluindo, com outro comando visto no anterior capítulo, botão:hover, alterando o botão quando focado ou pressionado com o ponteiro (que também será alterado para ponteiro):
 
-## Bonus
-Furthermore, we can apply style to the placeholder (the shaded messages in the input field name and textarea), using a pseudo-code called input:placeholder, causing only the input placeholder to be styled.Concluding, with another command seen in the previous chapter, button:hover, changing the button when focused or pressed with the pointer (which will also be changed to pointer):
+![imagem](https://github.com/user-attachments/assets/657a4b20-6b96-4f73-967d-bb2d1ccd7645)
 
-![image](https://github.com/user-attachments/assets/657a4b20-6b96-4f73-967d-bb2d1ccd7645)
-
-# Final css
-
+# Estilo Final
 ```
 html{
     background-color: #999;
